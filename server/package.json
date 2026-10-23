@@ -1,0 +1,1 @@
+{ "name": "samgym", "version": "1.0.0", "main": "android-main.js", "dependencies": { "web-push": "^3.6.7" } }
